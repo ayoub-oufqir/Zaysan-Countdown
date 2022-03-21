@@ -1,0 +1,52 @@
+body{
+    background-color: #020036;
+    background-image: url('background.jfif');
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 0px;
+    font-family: 'VT323', monospace;
+}
+
+.text{
+    color: #dc4086;
+    margin-bottom: 30px;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'VT323', monospace;
+}
+.background{
+    width:100%;
+}
+
+.logo{
+    width: 150px;
+    padding: 15px;
+}
+
+.fa-twitter{
+    padding: 20px;
+    float: right;
+}
+
+.made{
+    font-size: 30px;
+}
+
+#demo{
+    font-size: 120px;
+    margin-bottom: 20px;
+}
+
+#div1 {
+    font-size:60px;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.icon{
+ text-align: center;
+}
